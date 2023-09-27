@@ -3,6 +3,10 @@
   "displayName": "drifter",
   "description": "A awesome dark theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dask-58/turbocodertheme"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
